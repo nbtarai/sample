@@ -1,5 +1,5 @@
 <resources>
-    <string name="picture">image.png</string>
+    <string name="picture">bimage.png</string>
     <string name="app_name">TextViewTest</string>
     <string name="app_name1">TextViewTest</string>
     <string name="app_name2">TextViewTest</string>
