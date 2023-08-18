@@ -1,7 +1,7 @@
 <resources>
     <string name="picture">bimage.png</string>
     <string name="prefix">AAA</string>
-    <string name="suffix">XXX</string>
+    <string name="suffix">ZZZ</string>
     <string name="app_name">TextViewTest2</string>
     <string name="app_name1">TextViewTest</string>
     <string name="app_name2">TextViewTest</string>
@@ -31,4 +31,5 @@
     <string name="app_name26">TextViewTest</string>
     <string name="app_name27">TextViewTest</string>
     <string name="app_name28">TextViewTest</string>
+    <string name="app_name29">TextViewTest</string>
 </resources>
